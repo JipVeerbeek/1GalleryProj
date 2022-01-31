@@ -1,0 +1,17 @@
+body {
+    background-color: #373737;
+    font-family: cursive;
+    z-index: 0;
+}
+
+#container {
+    width: 80%;
+    z-index: 1;
+}
+
+.galleryS {
+    height: 337px;
+    width: 337px;
+    padding: 10px;
+
+}
