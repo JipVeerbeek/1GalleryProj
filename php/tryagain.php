@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Try again</h1><br>
-    <a href="form.php">Opnieuw proberen</a>
+    <a href="../index.php">Opnieuw proberen</a>
 </body>
 </html>
